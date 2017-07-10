@@ -1,0 +1,10 @@
+MAGENTA
+--------
+
+1. To enter envinronmet, run:
+
+source activate magenta
+
+2. To exit environment, run:
+
+source deactivate magenta
